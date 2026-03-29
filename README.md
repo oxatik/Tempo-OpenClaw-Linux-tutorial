@@ -1,6 +1,7 @@
-# Complete Linux (Ubuntu) tutorial for setting up OpenClaw with Tempo, enabling AI agents, Web3 integrations, and paid requests via MPP.
+# A step-by-step guide to installing and connecting OpenClaw (local AI agent) with Tempo (wallet + payment layer) for automated Web3 + AI execution on your own Linux infrastructure.
 
-🔹 Overview OpenClaw is a local AI agent that connects to models via API. Tempo acts as its wallet and payment layer for paid requests.
+🔹 Overview 
+OpenClaw is a local AI agent that connects to models via API. Tempo acts as its wallet and payment layer for paid requests.
 
 
 
