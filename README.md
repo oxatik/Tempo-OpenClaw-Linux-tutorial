@@ -3,7 +3,7 @@
 🔹 Overview 
 OpenClaw is a local AI agent that connects to models via API. Tempo acts as its wallet and payment layer for paid requests.
 
-
+This tutorial demonstrates how to use OpenClaw with Tempo alongside the official agent-skills repository: https://github.com/tempoxyz/agent-skills
 
 ---
 
